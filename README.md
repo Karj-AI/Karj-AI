@@ -2,7 +2,7 @@
 
 <p align="center">
   <a >
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=CS+%2B+UX+Design+Student;Building+with+the+Claude+API;Hackathon+Organizer+%26+Robotics+Lead" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Programming+%2B+User+Experience+Student;Building+with+the+Claude+API;Hackathon+Organizer;Turning+Ideas+Into+Shipped+Projects" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ### 🔭 About Me
 
-- 🎓 **Honours Programming** student
+- 🎓 **Programming** student
 - 🛠️ Currently building an **AI judging/scouting engine** for a hackathon platform I built from scratch
 - 🧠 Working with the **Claude API** and exploring applied AI projects
 - 🌱 Learning: AWS Cloud fundamentals, deeper ML/LLM integration
