@@ -47,8 +47,4 @@
 - **[Hackathon Website]** — Full stack platform built with Python, Flask, SQLite, HTML/CSS
 - **[Mood Guessing Project Selector]** — Suggests projects based on user mood input
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karj-AI&show_icons=true&theme=default&hide_border=true" alt="Karj-AI's GitHub stats" />
-</p>
