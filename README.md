@@ -46,5 +46,5 @@
 - **[SmartWrite]** — Handwriting recognition pipeline (PyTorch + React)
 - **[Hackathon Website]** — Full stack platform built with Python, Flask, SQLite, HTML/CSS
 - **[Mood Guessing Project Selector]** — Suggests projects based on user mood input
-
+- **[FluxConvert]** — Multi-threaded TCP client/server for unit conversions
 
