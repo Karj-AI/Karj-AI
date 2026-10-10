@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 56" width="900" height="56" role="img" aria-label="layer 02 highlights">
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" opacity="0.35"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="56" fill="#0c0a13"/>
+  <rect width="900" height="56" fill="url(#scan)"/>
+  <text x="24" y="35" font-family="'Courier New', Courier, monospace" font-size="20" letter-spacing="3" fill="#E8B4C8">layer 02</text>
+  <path d="M150 28 H610 L626 40 H740" stroke="#9A8FB0" stroke-opacity="0.4" fill="none"/>
+  <circle cx="740" cy="40" r="2.5" fill="#E8B4C8" fill-opacity="0.7"/>
+  <text x="876" y="33" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="14" letter-spacing="2" fill="#9A8FB0">highlights</text>
+</svg>
