@@ -33,26 +33,25 @@ certifications             20 from anthropic (claude api, mcp, claude code)
 <img src="assets/layer-03.svg" width="100%" alt="layer 03 - processes" />
 
 ```
-001  cozy arena                flask platform. content-signature upload
+001  Cozy Arena                flask platform. content-signature upload
                                checks, csrf, rate limiting, admin + csv
-002  ai judge & talent scout   llm backend: scores real submissions,
+002  AI Judge & Talent Scout   llm backend: scores real submissions,
                                matches participants to sponsor stacks
-003  historical influence      react + flask world tree: 59 figures,
-     engine                    15 countries, influence ranking
-004  smartwrite                47-class cnn from scratch in pytorch
+003  Historical Influence      react + flask world tree: 59 figures,
+     Engine                    15 countries, influence ranking
+004  Smartwrite                47-class cnn from scratch in pytorch
                                + react 19 frontend
-005  jetson nano vision bot    real-time face detection + age estimation
+005  Jetson Nano Vision Bot    real-time face detection + age estimation
                                on-gpu (in progress)
-006  asl sign translator       in-browser sign recognition, mediapipe,
+006  ASL Sign Translator       in-browser sign recognition, mediapipe,
                                100% client-side
-007  mood project picker       quiz to 3-axis vector, 275 tagged projects
+007  Mood Project Selection    quiz to 3-axis vector, 275 tagged projects
 008  Multiple Robotics kits    Arduino || C++
 
 also: lua survival game / fluxconvert (tcp) / arns travel (java)
       / power BI dashboards, fabric, Dynamics 365
 ```
 
-<p align="center"><a href="https://cozyarena.tech/"><code>cozyarena.tech</code></a></p>
 
 <img src="assets/layer-04.svg" width="100%" alt="layer 04 - stack" />
 
