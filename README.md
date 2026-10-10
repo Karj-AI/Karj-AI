@@ -1,79 +1,61 @@
-<h1 align="center">
-  <code>KARJ-AI</code>
-</h1>
 <p align="center">
-  <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=E8B4C8&center=true&vCenter=true&width=600&lines=present+day.+present+time.;Data+%26+AI+Engineer+Co-op;Programming+%2B+User+Experience+Student;Building+with+the+Claude+API;Hackathon+Organizer;Turning+Ideas+Into+Shipped+Projects" alt="Typing SVG" />
-  </a>
+  <img src="assets/header.svg" width="100%" alt="karj-ai" />
 </p>
-<p align="center"><code>data &amp; ai &nbsp;//&nbsp; full-stack &nbsp;//&nbsp; computer vision &nbsp;//&nbsp; robotics</code></p>
----
- 
-### `LAYER 01 :: ABOUT_ME`
- 
+
+<img src="assets/layer-01.svg" width="100%" alt="layer 01 - about" />
+
 ```
 > whoami
-karj-ai
- 
-> status
-  third-year CS student, UX Design minor
-  co-op: Data & AI Engineer at a Microsoft data consultancy
-  building: AI judging/scouting engine for a hackathon platform
-            I built from scratch
-  learning: AWS cloud fundamentals, deeper ML/LLM integration
- 
+karj-ai // AI + Data + Development + User Experience + Robotics
+
+> now
+Developing an ASL translator that runs entirely
+in your browser via webcam
+Building an AI Judge + talent scout engine
+for a hackathon platform i built from scratch
+
 > ask_me_about
-  AI tooling // robotics // UX/dev crossover projects
+ai tooling // robotics // ux/dev crossover
 ```
- 
----
- 
-### `LAYER 02 :: HIGHLIGHTS`
- 
-- **Data & AI Engineer co-op** — developer and technical consultant on Microsoft Data & AI delivery. Built Fabric lakehouses, designed Power BI semantic models and DAX measures, ingested data from Dynamics 365 and other sources, and helped configure AI agents on the prepared data.
-- **Built and launched [Cozy Arena](https://cozyarena.tech/)** — a full-stack hackathon platform with cash prizes, sponsors and job postings surfaced to participants.
-- **Head of Building, university robotics club** — led hardware for a competition robot, a Jetson Nano facial recognition robot and an FPV racing simulator; supported ~15 members during build sessions.
-- **Tutored 50+ students** from averages in the 60s to above 85.
-- **20 Anthropic certifications** — Building with the Claude API, MCP, Claude Code, agent skills, Claude in Amazon Bedrock and more.
----
- 
-### `LAYER 03 :: ACTIVE_PROCESSES`
- 
+
+<img src="assets/layer-02.svg" width="100%" alt="layer 02 - highlights" />
+
 ```
-PID  PROCESS                       DESCRIPTION
----  ----------------------------  ---------------------------------------------
-001  Cozy Arena                    Hackathon platform: Flask, SQLAlchemy, SQLite.
-                                   Content-signature upload validation, CSRF,
-                                   rate-limited login, admin CRUD, CSV export
-002  AI Judge & Talent Scout       Provider-agnostic LLM evaluation backend.
-                                   Scores real submissions, matches participants
-                                   to sponsor stacks from evidence
-003  Historical Influence Engine   React + Flask "world tree" of 59 figures across
-                                   15 countries, with influence ranking algorithm
-004  SmartWrite                    Handwriting recognition: 47-class CNN built
-                                   from scratch in PyTorch + React 19 frontend
-005  Jetson Nano Face Recognition  Autonomous robot, real-time face detection and
-                                   age estimation on-GPU (in progress)
-006  ASL Sign Translator           In-browser sign recognition with MediaPipe,
-                                   React 19 + TypeScript. 100% client-side
-007  Mood Project Picker           7-question quiz to 3-axis vector, matched
-                                   against 275 hand-tagged projects
-008  Tetrix PRIZM Minimax Bot      Competition robot: Arduino, tank drive,
-                                   servos, custom gearing
-009  Survival Game                 Multiplayer Lua game: wave spawning,
-                                   checkpoints, abilities, weapon system
-010  FluxConvert                   Multi-threaded TCP client/server for unit
-                                   conversions, 21-case test suite
-011  ARNS Travel System            Java Swing travel planner, layered
-                                   architecture, light/dark theming
-012  Power BI Dashboards           Banking transactions, a 630-respondent
-                                   analyst survey, academic performance
+data & ai                  fabric lakehouses, power bi + dax models,
+                           dynamics 365 ingestion, ai agents on top
+Cozy Arena                 hackathon platform: cash prizes, sponsors and
+                           job postings surfaced to participants
+Robotics Exec              robotics club: competition robot, jetson nano
+                           vision robot, FPV Sim, temi.
+certifications             20 from anthropic (claude api, mcp, claude code)
 ```
- 
----
- 
-### `LAYER 04 :: TECH_STACK`
- 
+
+<img src="assets/layer-03.svg" width="100%" alt="layer 03 - processes" />
+
+```
+001  cozy arena                flask platform. content-signature upload
+                               checks, csrf, rate limiting, admin + csv
+002  ai judge & talent scout   llm backend: scores real submissions,
+                               matches participants to sponsor stacks
+003  historical influence      react + flask world tree: 59 figures,
+     engine                    15 countries, influence ranking
+004  smartwrite                47-class cnn from scratch in pytorch
+                               + react 19 frontend
+005  jetson nano vision bot    real-time face detection + age estimation
+                               on-gpu (in progress)
+006  asl sign translator       in-browser sign recognition, mediapipe,
+                               100% client-side
+007  mood project picker       quiz to 3-axis vector, 275 tagged projects
+008  Multiple Robotics kits    Arduino || C++
+
+also: lua survival game / fluxconvert (tcp) / arns travel (java)
+      / power BI dashboards, fabric, Dynamics 365
+```
+
+<p align="center"><a href="https://cozyarena.tech/"><code>cozyarena.tech</code></a></p>
+
+<img src="assets/layer-04.svg" width="100%" alt="layer 04 - stack" />
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=E8B4C8" />
   <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=E8B4C8" />
@@ -91,6 +73,5 @@ PID  PROCESS                       DESCRIPTION
   <img src="https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=E8B4C8" />
   <img src="https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=E8B4C8" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:3a1f2d&height=100&section=footer" width="100%" />
-</p>
+
+<img src="assets/footer.svg" width="100%" alt="" />
