@@ -71,7 +71,7 @@ PID  PROCESS                       DESCRIPTION
  
 ```
 > The Wired is open. Say hello.
-> Let's all love Lain.
+> I'll change the world.
 ```
  
 <p align="center">
