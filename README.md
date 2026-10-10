@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="karj-ai" />
+  <img src="assets/header.svg" width="100%" alt="Karj-AI" />
 </p>
 
 <img src="assets/layer-01.svg" width="100%" alt="layer 01 - about" />
 
 ```
 > whoami
-karj-ai // AI + Data + Development + User Experience + Robotics
+Karj-AI // AI + Data + Development + User Experience + Robotics
 
 > now
 Developing an ASL translator that runs entirely
@@ -15,18 +15,18 @@ Building an AI Judge + talent scout engine
 for a hackathon platform i built from scratch
 
 > ask_me_about
-ai tooling // robotics // ux/dev crossover
+AI tooling // Robotics // UX/Dev Crossover
 ```
 
 <img src="assets/layer-02.svg" width="100%" alt="layer 02 - highlights" />
 
 ```
-data & ai                  fabric lakehouses, power bi + dax models,
-                           dynamics 365 ingestion, ai agents on top
-Cozy Arena                 hackathon platform: cash prizes, sponsors and
+Data & AI                  Fabric Lakehouses, Power BI + Dax models,
+                           dynamics 365 ingestion, AI agents on top
+Cozy Arena                 Hackathon platform: cash prizes, sponsors and
                            job postings surfaced to participants
-Robotics Exec              robotics club: competition robot, jetson nano
-                           vision robot, FPV Sim, temi.
+Robotics Exec              Robotics: competition robot, Jetson Nano
+                           Vision Robot, FPV Sim, Temi.
 certifications             20 from anthropic (claude api, mcp, claude code)
 ```
 
