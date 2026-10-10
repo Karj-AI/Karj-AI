@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="karj-ai">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c0a13"/>
+      <stop offset="1" stop-color="#1b1226"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#E8B4C8" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#E8B4C8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" opacity="0.35"/>
+    </pattern>
+    <filter id="noise" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.08"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <rect width="900" height="240" fill="url(#bg)"/>
+  <rect width="900" height="240" fill="url(#glow)"/>
+  <rect width="900" height="240" fill="#fff" filter="url(#noise)"/>
+
+  <!-- wires -->
+  <g stroke="#9A8FB0" stroke-opacity="0.35" stroke-width="1" fill="none">
+    <path d="M0 38 H110 L130 58 H290"/>
+    <path d="M0 52 H70"/>
+    <path d="M610 202 H760 L780 182 H900"/>
+    <path d="M830 188 H900"/>
+    <path d="M0 214 H190"/>
+  </g>
+  <g fill="#E8B4C8">
+    <circle cx="290" cy="58" r="2.5" fill-opacity="0.7"/>
+    <circle cx="610" cy="202" r="2.5" fill-opacity="0.7"/>
+    <circle cx="190" cy="214" r="2" fill-opacity="0.4">
+      <animate attributeName="fill-opacity" values="0.15;0.8;0.15" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- title with chromatic offset -->
+  <g font-family="'Courier New', Courier, monospace" font-size="78" letter-spacing="8" text-anchor="middle">
+    <text x="450" y="124" fill="#ff3b6b" fill-opacity="0.30">karj-ai
+      <animate attributeName="x" values="447;443;448;447;451;447" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="124" fill="#2fe6ff" fill-opacity="0.30">karj-ai
+      <animate attributeName="x" values="453;457;452;453;449;453" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="124" fill="#F2D6E0">karj-ai</text>
+  </g>
+
+  <g font-family="'Courier New', Courier, monospace" text-anchor="middle">
+    <text x="450" y="168" font-size="17" fill="#B9A9CC" letter-spacing="3">present day. present time.</text>
+    <text x="450" y="194" font-size="13" fill="#7B7092" letter-spacing="2">data &amp; ai  //  full-stack  //  computer vision  //  robotics</text>
+  </g>
+
+  <!-- scanlines + roll bar -->
+  <rect width="900" height="240" fill="url(#scan)">
+    <animate attributeName="opacity" values="1;0.8;1;0.9;1" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="-12" width="900" height="10" fill="#E8B4C8" opacity="0.06">
+    <animate attributeName="y" values="-12;250" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
